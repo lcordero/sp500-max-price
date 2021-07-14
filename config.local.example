@@ -1,0 +1,11 @@
+[mysql]
+server=localhost
+database=database
+port=3306
+user=user
+password=password
+charset=utf8
+
+[api]
+host=api.host
+key=api.key
